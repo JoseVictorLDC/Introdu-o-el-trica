@@ -1,4 +1,4 @@
-# Introducao_eletrica
+# Introdução à elétrica
 
 This project have the goal of solve an urban mobility problem in the POLI-USP university:
 
